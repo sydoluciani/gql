@@ -55,7 +55,7 @@ client = Client(transport=RequestsHTTPTransport(
 ```
 
 ## Contributing
-See [CONTRIBUTING.md](contributing.md)
+See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## License
 
